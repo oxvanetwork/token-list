@@ -18,7 +18,7 @@
         {
             "chainId": 991122,
             "address": "0x5471fe31DBC15DE19C862dA718a1fe976D171b5a",
-            "name": "Oxdex",
+            "name": "Oxdex Token",
             "symbol": "OXDEX",
             "decimals": 9,
             "logoURI": "https://i.imgur.com/SGUopDY.png"
