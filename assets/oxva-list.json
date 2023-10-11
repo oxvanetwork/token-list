@@ -1,0 +1,32 @@
+{
+    "name": "oxvaDefault",
+    "logoURI": "https://i.imgur.com/fPPdoZt.png",
+    "keywords": [
+        "oxva-testnet",
+        "defi"
+    ],
+    "timestamp": "2023-09-08T03:40:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 991122,
+            "address": "0x79302701f4390Eb41Dd86eda7B96BaDd5366bc2E",
+            "name": "Wrapped Ova",
+            "symbol": "WOVA",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/fPPdoZt.png"
+        },
+        {
+            "chainId": 991122,
+            "address": "0x163D8a1f14f77699e9650360e0c8C4A10A8752F9",
+            "name": "Oxdex",
+            "symbol": "ODEX",
+            "decimals": 9,
+            "logoURI": "https://i.imgur.com/SGUopDY.png"
+        }
+    ],
+    "version": {
+        "major": 4,
+        "minor": 0,
+        "patch": 0
+    }
+}
