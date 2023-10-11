@@ -14,22 +14,6 @@
             "symbol": "WOVA",
             "decimals": 18,
             "logoURI": "https://i.imgur.com/fPPdoZt.png"
-        },
-        {
-            "chainId": 991122,
-            "address": "0x5471fe31DBC15DE19C862dA718a1fe976D171b5a",
-            "name": "Oxdex Token",
-            "symbol": "OXDEX",
-            "decimals": 9,
-            "logoURI": "https://i.imgur.com/fPPdoZt.png"
-        },
-        {
-            "chainId": 991122,
-            "address": "0xF5dC99e620976C61Fea2e6525889E4eaFbB9401F",
-            "name": "OUSD Token",
-            "symbol": "OUSD",
-            "decimals": 18,
-            "logoURI": "https://i.imgur.com/l71mwQY.png"
         }
     ],
     "version": {
