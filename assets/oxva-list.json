@@ -1,6 +1,6 @@
 {
     "name": "oxvaDefault",
-    "logoURI": "https://i.imgur.com/fPPdoZt.png",
+    "logoURI": "https://imgur.com/fPPdoZt",
     "keywords": [
         "oxvatestnet",
         "defi"
@@ -13,7 +13,7 @@
             "name": "Wrapped Ova",
             "symbol": "WOVA",
             "decimals": 18,
-            "logoURI": "https://i.imgur.com/fPPdoZt.png"
+            "logoURI": "https://imgur.com/fPPdoZt"
         },
         {
             "chainId": 991122,
@@ -21,7 +21,7 @@
             "name": "Oxdex Token",
             "symbol": "OXDEX",
             "decimals": 9,
-            "logoURI": "https://i.imgur.com/SGUopDY.png"
+            "logoURI": "https://imgur.com/SGUopDY"
         },
         {
             "chainId": 991122,
@@ -29,11 +29,11 @@
             "name": "OUSD Token",
             "symbol": "OUSD",
             "decimals": 18,
-            "logoURI": "https://i.imgur.com/SGUopDY.png"
+            "logoURI": "https://imgur.com/l71mwQY"
         }
     ],
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
     }
