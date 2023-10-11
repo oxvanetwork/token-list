@@ -17,9 +17,9 @@
         },
         {
             "chainId": 991122,
-            "address": "0x163D8a1f14f77699e9650360e0c8C4A10A8752F9",
+            "address": "0x5471fe31DBC15DE19C862dA718a1fe976D171b5a",
             "name": "Oxdex",
-            "symbol": "ODEX",
+            "symbol": "OXDEX",
             "decimals": 9,
             "logoURI": "https://i.imgur.com/SGUopDY.png"
         }
