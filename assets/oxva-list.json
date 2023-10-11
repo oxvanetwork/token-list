@@ -22,6 +22,14 @@
             "symbol": "OXDEX",
             "decimals": 9,
             "logoURI": "https://i.imgur.com/SGUopDY.png"
+        },
+        {
+            "chainId": 991122,
+            "address": "0xF5dC99e620976C61Fea2e6525889E4eaFbB9401F",
+            "name": "OUSD Token",
+            "symbol": "OUSD",
+            "decimals": 18,
+            "logoURI": "https://i.imgur.com/SGUopDY.png"
         }
     ],
     "version": {
